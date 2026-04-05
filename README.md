@@ -132,4 +132,4 @@ Switch roles via the sidebar dropdown:
 - Add charts: Recharts is already installed — drop new chart components into `Dashboard.jsx`
 =======
 # finance-dashboard
->>>>>>> a5fdc19d7d17d2ce841dbb927cb59c6a2420292d
+
