@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FinTrack — Finance Dashboard
 
 A clean, interactive finance dashboard built with React. Track your income, expenses, and spending patterns with a polished UI.
@@ -129,3 +130,6 @@ Switch roles via the sidebar dropdown:
 - Connect a real API: replace mock data in `src/data/transactions.js` and update `AppContext.jsx` to fetch on mount
 - Add more roles: extend the role check (`isAdmin`) in components
 - Add charts: Recharts is already installed — drop new chart components into `Dashboard.jsx`
+=======
+# finance-dashboard
+>>>>>>> a5fdc19d7d17d2ce841dbb927cb59c6a2420292d
